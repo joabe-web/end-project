@@ -1,0 +1,11 @@
+/* GLOBAL */
+@import url(/css/global/ultily.css);
+
+/* HEADER */
+@import url(/css/header/header.css);
+
+/* CENTRAL */
+@import url(/css/central/main.css);
+
+/* FOOTER */
+@import url(/css/footer/footer.css);
